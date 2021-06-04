@@ -1,0 +1,30 @@
+body {
+    background: #30E8BF;
+    background: -webkit-linear-gradient(to right, #FF8235, #30E8BF);
+    background: linear-gradient(to right, #FF8235, #30E8BF);
+}
+
+.title {
+    font-family: 'Monoton', cursive;
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.anchor {
+    background: #642B73;
+    background: -webkit-linear-gradient(to right, #C6426E, #642B73);
+    background: linear-gradient(to right, #C6426E, #642B73);
+    color: white;
+    transition: 0.5s;
+    margin: 10px;
+    border-radius: 25px 0px 25px 0px;
+    width: 60%;
+    float: none;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 20px;
+}

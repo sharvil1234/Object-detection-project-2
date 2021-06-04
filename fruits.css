@@ -1,0 +1,16 @@
+body {
+    background: #03001e;
+    background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);
+    background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);
+}
+
+.title {
+    font-family: 'Monoton', cursive;
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+canvas{
+    margin: 10px;
+}
